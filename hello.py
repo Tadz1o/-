@@ -1,4 +1,4 @@
-a = int(input("ВВедите число "))
+a = int(input("ВВедитие число "))
 
 sum = 0
 while a != 0:
